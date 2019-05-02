@@ -1,4 +1,4 @@
-[This is a tree with for leaves!]
+[This is a tree with four leaves!]
 ((a,b), (c [third leaf],d))
 [The end]
 ;
